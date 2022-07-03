@@ -23,7 +23,7 @@
 </p>
 
 ```javascript
-const thai = {
+const MyProgram = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Python, NextJS
   tools: [React, Storybook, Styled-Components, Jest, Docker],
